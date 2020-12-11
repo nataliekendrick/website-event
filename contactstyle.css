@@ -1,0 +1,231 @@
+.star{
+  position: absolute;
+  width: 68px;
+  height: 50px;
+  left: 1435px;
+  top: 53px;
+}
+
+.title{
+  position: absolute;
+  width: 593px;
+  height: 218px;
+  top: 7px;
+  left: 758px;
+
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 54px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #A80606;
+    
+  background: -webkit-linear-gradient(#E5E5E5,#ff4545, #ff0000, #A80606);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.8s ease;
+}
+
+.title:hover{
+  background: -webkit-radial-gradient(#0B533B, #21D065, #009E3D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
+
+.image{
+  position: absolute;
+  left: 320px;
+  top: 198px;
+}
+
+.image2{
+  position: absolute;
+  left: 52.73px;
+  top: 163.34px;
+  border: 3px solid #FF0000;
+  box-sizing: border-box;
+  transform: rotate(-14.92deg);
+}
+
+.rectangle{
+  position: absolute;
+  width: 458.35px;
+  height: 243.64px;
+  left: 88.72px;
+  top: 202.3px;
+
+  background: #FFFFFF;
+  border: 1.5px solid #000000;
+  box-sizing: border-box;
+  transform: rotate(-16.02deg);
+}
+
+.address{
+  position: absolute;
+  width: 282px;
+  height: 141.72px;
+  left: 112px;
+  top:200;
+
+  font-family: Esteban;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 31px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  transform: rotate(-15.87deg);
+}
+
+.location{
+  position: absolute;
+  width: 302.07px;
+  height: 147.17px;
+  left: 188.53px;
+  top: 234.33px;
+
+  font-family: Esteban;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  transform: rotate(-17.44deg);
+}
+
+.coordinates{
+  position: absolute;
+  width: 247.29px;
+  height: 81px;
+  left: 206px;
+  top: 322.95px;
+
+  font-family: Esteban;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  transform: rotate(-17.64deg);
+}
+
+.image3{
+  position: absolute;
+  left: 396px;
+  top: 551px;
+  transform: rotate(17deg);
+  border: 2px solid #FF0000;
+  box-sizing: border-box;
+}
+
+.rectangle2{
+  position: absolute;
+  width: 458.35px;
+  height: 243.64px;
+  left: 437px;
+  top: 581.4px;
+
+  background: #FFFFFF;
+  border: 1.5px solid #000000;
+  box-sizing: border-box;
+  transform: rotate(17deg);
+}
+
+.call{
+  position: absolute;
+  width: 263.96px;
+  height: 67.72px;
+  left: 517px;
+  top: 582.7px;
+
+  font-family: Esteban;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 31px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+  transform: rotate(17deg);
+}
+
+.number{
+  position: absolute;
+  width: 308px;
+  height: 67px;
+  left: 535.96px;
+  top: 640px;
+
+  font-family: Esteban;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+  transform: rotate(17deg);
+}
+
+.email{
+  position: absolute;
+  width: 263.67px;
+  height: 67.72px;
+  left: 489.29px;
+  top: 678.7px;
+
+  font-family: Esteban;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 31px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  transform: rotate(17deg);
+}
+
+.emailaddress{
+  position: absolute;
+  width: 308px;
+  height: 67px;
+  left: 513.29px;
+  top: 735.7px;
+
+  font-family: Esteban;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+  transform: rotate(17deg);
+}
+
+@media only screen and (max-width: 1000px) {
+  body {
+    background-color: #009E3D;
+  }
+  
