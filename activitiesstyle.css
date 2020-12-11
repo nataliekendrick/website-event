@@ -1,0 +1,149 @@
+.star{
+  position: absolute;
+  width: 68px;
+  height: 50px;
+  left: 1435px;
+  top: 53px;
+}
+
+.title{
+  position: absolute;
+  width: 593px;
+  height: 218px;
+  left: 924px;
+  top: 224px;
+
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 54px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #A80606;
+  background: -webkit-linear-gradient(#E5E5E5,#ff4545, #ff0000, #A80606);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.8s ease;
+}
+
+.title:hover{
+  background: -webkit-radial-gradient(#0B533B, #21D065, #009E3D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
+.map{
+  position: absolute;
+  left: 89px;
+  top: 129px;
+  
+  background: url(Screen Shot 2020-12-07 at 2.20.png);
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+
+.reindeers{
+  position: absolute;
+  left: 930px;
+  bottom: -304px;
+  border: 1px solid #A80606;
+  box-sizing: border-box;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.label1{
+  position: absolute;
+  left: 240.14px;
+  top: 543.41px;
+  z-index: -1;
+
+  background: #A80606;
+  transform: rotate(-10.79deg);
+}
+
+.text1{
+  position: absolute;
+  width: 245px;
+  height: 120px;
+  left: 308.3px;
+  top: 619px;
+
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+
+  transform: rotate(3deg);
+}
+
+.santa{
+  position: absolute;
+  left: 223px;
+  top: 816px;
+  
+  border: 2px solid #009E3D;
+  box-sizing: border-box;
+}
+
+
+.label2{
+  position: absolute;
+  left: 1012.72px;
+  top: 1168.41px;
+  z-index:-1;
+}
+
+.text2{
+  position: absolute;
+  width: 278px;
+  height: 89.61px;
+  left: 1033.8px;
+  top: 1236.71px;
+
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 38px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+
+  transform: rotate(-12.56deg);
+}
+
+.label3{
+  position: absolute;
+  left: 352.18px;
+  top: 1279.25px;
+  z-index:-1;
+}
+
+.text3{
+  position: absolute;
+  width: 149px;
+  height: 153px;
+  left: 426px;
+  top: 1444.19px;
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 61px;
+  line-height: 61px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  transform: rotate(-2deg);
+}

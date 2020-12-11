@@ -1,0 +1,336 @@
+/* CSS files add styling rules to your content */
+.ornamentwrpper{
+  position:absolute; 
+  text-align: center;
+  right:50px;
+  font-size: 5vw;
+}
+
+.lights{
+  position:absolute;
+  left: -13px;
+  z-index: -2;
+}
+.lights2{
+  position:absolute;
+  z-index: -2; 
+  left: 840px;
+  top:26px
+  
+}
+
+.about{
+  position: absolute;
+  width: 298px;
+  height: 50px;
+  left: 264px;
+  top: 431px;
+
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 76px;
+  line-height: 43px;
+  text-align: center;
+
+  color: white;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.title {
+  position: absolute;
+  width: 954px;
+  height: 185px;
+  left: 365px;
+  top: 812px;
+
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 54px;
+  text-align: center;
+
+  color: #000000;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+} 
+
+.redornament{
+  position: absolute;
+  width: 323px;
+  border-radius: 50%;
+  height: 323px;
+  left: 256px;
+  top: 294px;
+
+background: linear-gradient(180deg, #FF0000 0%, rgba(168, 6, 6, 0.994792) 33.33%, rgba(255, 0, 0, 0.817014) 52.08%, rgba(121, 6, 6, 0.587203) 69.79%, rgba(153, 7, 7, 0.446275) 82.81%, rgba(255, 9, 9, 0) 95.83%), #FF0000;}
+
+.line1{
+  position: absolute;
+  width: 0px;
+  height: 258.01px;
+  left: 410px;
+  top: -10px;
+  
+  border: 6px solid #E5E5E5;
+  transform: rotate(-0.44deg);
+} 
+
+.rectanlge1{
+  position: absolute;
+  width: 66px;
+  height: 35px;
+  left: 385px;
+  top: 276px;
+
+  background: #E5E5E5;
+}
+
+.curve1 {
+  position: absolute;
+  width: 53px;
+  height: 25px;
+  left: 385px;
+  top: 258px;
+  border-radius: 100%;
+
+  border: 6px solid #E5E5E5;
+}
+
+.purpleornament{
+  position: absolute;
+  width: 293px;
+  height: 293px;
+  left: 697px;
+  top: 212.04px;
+  border-radius: 50%;
+  
+  background: linear-gradient(180deg, #0B533B 0%, #009E3D 29.17%, #0B533B 53.65%, #009E3D 68.75%, #0B533B 97.92%), #009E3D;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.contact{
+  position: absolute;
+  width: 275px;
+  height: 51px;
+  left: 704px;
+  top: 340px;
+
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 40px;
+  text-align: center;
+
+  color: #FFFFFF;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.line2{
+  position: absolute;
+  width: 0px;
+  height: 179.38px;
+  left: 830px;
+  top: -10px;
+
+  border: 6px solid #E5E5E5;
+  transform: rotate(-0.25deg);
+}
+
+.rectanlge2{
+  position: absolute;
+  width: 59.87px;
+  height: 31.75px;
+  left: 805px;
+  top: 195.71px;
+
+  background: #E5E5E5;
+}
+
+.curve2{
+  position: absolute;
+  width: 48.08px;
+  height: 22.68px;
+  left: 805px;
+  top: 179.38px;
+  border-radius: 100%;
+
+  border: 6px solid #E5E5E5;
+}
+.greenornament{
+  position: absolute;
+  width: 365px;
+  height: 365px;
+  left: 1110px;
+  top: 305px;
+  border-radius: 100%;
+
+  background: linear-gradient(90.93deg, #FF0000 3.69%, #A80606 26.44%, #FF0000 45.88%, #A80606 65.78%, #FF0000 94.7%), #A80606;
+}
+
+
+.activities{
+  position: absolute;
+  width: 392px;
+  height: 52px;
+  left: 1097px;
+  top: 473px;
+
+  font-family: Lust Script;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 40px;
+  text-align: center;
+
+  color: white;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.line3{
+  position: absolute;
+  width: 0px;
+  height: 280.01px;
+  left: 1280px;
+  top: -6px;
+
+  border: 6px solid #E5E5E5;
+  transform: rotate(-0.41deg);
+}
+
+.rectanlge3{
+  position: absolute;
+  width: 66px;
+  height: 35px;
+  left: 1255px;
+  top: 298px;
+
+  background: #E5E5E5;
+}
+
+.curve3{
+  position: absolute;
+  width: 53px;
+  height: 25px;
+  left: 1255px;
+  top: 280px;
+  border-radius: 100%;
+
+  border: 6px solid #E5E5E5;
+}
+
+.darkgreen{
+  z-index: -1;
+  position:absolute;
+  width: 240px;
+  height: 240px;
+  left: 500px;
+  top: 169px;
+  border-radius:50%;
+
+  background: linear-gradient(180deg, #FFFFFF 0%, #009E3D 100%), #0B533B;
+  border: 1px solid #009E3D;
+  box-sizing: border-box;
+}
+
+.line4{
+  position: absolute;
+  width: 0px;
+  height: 145.95px;
+  left: 611px;
+  top: -9px;
+
+  border: 6px solid #E5E5E5;
+  transform: rotate(-0.75deg);
+}
+
+.rectanlge4{
+  position: absolute;
+  width: 65.02px;
+  height: 34.48px;
+  left: 585px;
+  top: 161.08px;
+
+  background: #E5E5E5;
+}
+
+.curve4{
+  position: absolute;
+  width: 52.21px;
+  height: 24.63px;
+  left: 585px;
+  top: 143.35px;
+  border-radius:100%;
+
+  border: 6px solid #E5E5E5;
+}
+.pink{
+  position: absolute;
+  width: 195px;
+  height: 195px;
+  left: 950px;
+  top: 154px;
+  z-index: -1;
+  border-radius: 50%;
+
+  background: linear-gradient(180deg, #FF0000 0%, #FFFFFF 93.23%), #FF0000;
+  border: 1px solid rgba(255, 0, 0, 0.25);
+}
+
+.line5{
+  position: absolute;
+  width: 0px;
+  height: 134.39px;
+  left: 1038px;
+  top: -19px;
+
+  border: 6px solid #E5E5E5;
+  transform: rotate(-0.75deg);
+}
+
+.rectanlge5{
+  position: absolute;
+  width: 59.87px;
+  height: 31.75px;
+  left: 1015px;
+  top: 137.71px;
+
+  background: #E5E5E5;
+}
+
+.curve5{
+  position: absolute;
+  width: 48.08px;
+  height: 22.68px;
+  left: 1015px;
+  top: 121.38px;
+
+  border: 6px solid #E5E5E5;
+  border-radius:100%;
+}
